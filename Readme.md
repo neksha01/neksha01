@@ -62,7 +62,7 @@ Completed a **6-month internship**, working on real-world full-stack features, R
 - Fully deployed frontend & backend
 
 🔗 **Live Project:**  
-https://react-ai-tool-psi-umber.vercel.app/
+https://react-ai-tool-2goh.vercel.app/
 
 🔗 **Frontend Repo:**  
 https://github.com/neksha01/react-ai-tool
